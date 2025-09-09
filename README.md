@@ -1,3 +1,5 @@
+# DEPRECATION NOTE: This is no longer used in any of our clusters.
+
 # Gateway API CRDs
 
 Deploys K8s Gateway API CRDs. No official Helm chart exists for this, this is a stopgap while its under [discussion](https://github.com/kubernetes-sigs/gateway-api/discussions/934)
